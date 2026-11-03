@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\2026_2027\\C\\11.02_masodikora\\11.02_masodikora\\11.02_masodikora.csproj",
+      "projectUniqueName": "J:\\2026_2027\\Git\\11.02feladat\\11.02_masodikora\\11.02_masodikora\\11.02_masodikora.csproj",
       "projectName": "11.02_masodikora",
-      "projectPath": "J:\\2026_2027\\C\\11.02_masodikora\\11.02_masodikora\\11.02_masodikora.csproj",
+      "projectPath": "J:\\2026_2027\\Git\\11.02feladat\\11.02_masodikora\\11.02_masodikora\\11.02_masodikora.csproj",
       "packagesPath": "C:\\Users\\b4tulcsa\\.nuget\\packages\\",
-      "outputPath": "J:\\2026_2027\\C\\11.02_masodikora\\11.02_masodikora\\obj\\",
+      "outputPath": "J:\\2026_2027\\Git\\11.02feladat\\11.02_masodikora\\11.02_masodikora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11.02_masodikora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+751b62c319c9240bb175c086dd470c5a72a5446b")]
 [assembly: System.Reflection.AssemblyProductAttribute("11.02_masodikora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11.02_masodikora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

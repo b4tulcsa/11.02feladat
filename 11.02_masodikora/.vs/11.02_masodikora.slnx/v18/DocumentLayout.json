@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\2026_2027\\Git\\11.02feladat\\11.02_masodikora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6310C2E2-FF95-3C7C-5327-4A7DE397DC23}|11.02_masodikora\\11.02_masodikora.csproj|j:\\2026_2027\\git\\11.02feladat\\11.02_masodikora\\11.02_masodikora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6310C2E2-FF95-3C7C-5327-4A7DE397DC23}|11.02_masodikora\\11.02_masodikora.csproj|solutionrelative:11.02_masodikora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\2026_2027\\Git\\11.02feladat\\11.02_masodikora\\11.02_masodikora\\Program.cs",
+              "RelativeDocumentMoniker": "11.02_masodikora\\Program.cs",
+              "ToolTip": "J:\\2026_2027\\Git\\11.02feladat\\11.02_masodikora\\11.02_masodikora\\Program.cs",
+              "RelativeToolTip": "11.02_masodikora\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T12:05:52.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
